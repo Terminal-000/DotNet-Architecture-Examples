@@ -25,13 +25,10 @@ This repository is a collection of **small, self-contained examples** that illus
 
 ## Repo Layout
 #### DotNet-Architecture-Examples/
-  - Architecture
-    - DynamicJsonBuilder.md
+  - Architecture_Design_Examples
+    - MinIoProvider - A clean way to provide MinIO APIs in your microservices
 
   - Performance/
-      - RedisCacheSnippet.cs
-      - AsyncThroughputDemo.cs
-      - RateLimiterConcept.md
 
 
 Each `.cs` file is a focused snippet; each `.md` explains intent, trade-offs, and integration notes.
