@@ -17,7 +17,6 @@ This repository is a collection of **small, self-contained examples** that illus
   - CQRS and separation-of-concerns examples
   - Service registration and DI patterns
 - **Performance & Reliability**
-  - Redis caching and cache invalidation patterns
   - Async processing and throughput considerations
   - Rate limiting and resilient HTTP client patterns
 
