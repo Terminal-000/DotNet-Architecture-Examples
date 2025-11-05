@@ -1,4 +1,4 @@
-namespace MinIoConnectionLayer.Helper
+namespace MinioProvider.Helper
 {
     public class MinioConfigurations
     {
