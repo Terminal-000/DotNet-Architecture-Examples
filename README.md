@@ -25,11 +25,9 @@ This repository is a collection of **small, self-contained examples** that illus
 
 ## Repo Layout
 #### DotNet-Architecture-Examples/
-  - Architecture_Design_Examples
+  - Contents
     - MinIoProvider - A clean way to provide MinIO APIs in your microservices
-
-  - Performance/
-
+    - CamundaWrapperArchitecture - Camunda BPMN Integration for Dynamic .NET Microservice Architecture
 
 Each `.cs` file is a focused snippet; each `.md` explains intent, trade-offs, and integration notes.
 
