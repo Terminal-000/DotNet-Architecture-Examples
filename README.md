@@ -33,7 +33,7 @@ Each `.cs` file is a focused snippet; each `.md` explains intent, trade-offs, an
 ---
 
 ## Usage
-- Read the `.md` files first to understand the problem being solved and its suggested solution.
+- Read the `Documents.md` files first to understand the problem being solved and its suggested solution (Check architecture diagrams at the bottom of each file).
 - Snippets are intentionally minimal — they show patterns and structure rather than full runnable apps.
 - Feel free to adapt these ideas into your own projects. If you need a runnable example, I can provide a small demo on request.
 
