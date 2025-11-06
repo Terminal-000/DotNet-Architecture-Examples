@@ -80,7 +80,7 @@ All development, deployment, and architectural details remain under strict **NDA
 - Delivered an **enterprise-ready**, **scalable**, and **future-proof** BPMN integration framework.  
 
 ---
-
+### Component Diagram
 ![alt text](image.png)
 
 ---
